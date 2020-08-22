@@ -1,5 +1,5 @@
 {
-  "name": "content-analyzer",
+  "name": "@juanjavier1979/content-analyzer",
   "version": "1.0.0",
   "description": "SEO Content Analysis API",
   "main": "src/index.js",
